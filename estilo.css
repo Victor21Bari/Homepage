@@ -113,15 +113,23 @@ input {
 
 /* parte dois */
 
+
+#parte-2{
+    margin-top: -130px; 
+    height: 80vh;
+    padding: 10px;
+}
 .pagina-2{
     width: 50%;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: aliceblue;
+    background-color: aqua;
+    margin: 40px auto;
 }
 
 .titulo-2{
     color: black;
     font-weight: bold;
     text-align: center;
+} 
+.paragrafo-2{
+    color: black;
 }
